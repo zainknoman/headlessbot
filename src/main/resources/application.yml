@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: form-bot
+server:
+  port: 8080
+playwright:
+  headless: false
+bot:
+  target-url: https://example.com/form
+  timeout-ms: 15000
+  screenshot-directory: storage/screenshots
