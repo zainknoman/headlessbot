@@ -1,0 +1,8 @@
+target/
+.idea/
+.vscode/
+*.iml
+storage/screenshots/
+storage/auth/
+.env
+*.log
